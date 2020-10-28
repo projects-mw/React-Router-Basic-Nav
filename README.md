@@ -42,3 +42,11 @@ Topics:
 
 * [Code Sandbox from Lecture](https://codesandbox.io/s/n58oqgwmP)
 * [React Router Quick Start Guide](https://reacttraining.com/react-router/web/guides/quick-start)
+
+## recording
+
+[emily seibert](https://youtu.be/KSOKEA_iaFs)
+[christina gorton](https://youtu.be/tzFCTDIW6D8)
+[dan frehner](https://youtu.be/R455ELXJ0SU)
+[jason maurer](https://youtu.be/pKCrLVXEa6c)
+[dan levy](https://youtu.be/iHR9n-WSCms)
